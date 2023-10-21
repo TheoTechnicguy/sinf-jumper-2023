@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="svg9"
+   version="1.1"
+   viewBox="0 -0.010735034942626953 721.7400512695312 139.12242126464844"
+   sodipodi:docname="ucl-epl-logo.svg"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs9" />
+  <sodipodi:namedview
+     id="namedview9"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="1.7277689"
+     inkscape:cx="193.60228"
+     inkscape:cy="69.743124"
+     inkscape:window-width="1920"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="main" />
+  <g
+     id="main"
+     transform="translate(0,0)">
+    <!-- text logo -->
+    <g
+       id="texte_logo"
+       style="fill:#ffffff;fill-opacity:1">
+      <path
+         d="M181.71,128.45a23.65,23.65,0,0,1-23.62-23.62V67.47h11.84v37.37a11.78,11.78,0,1,0,23.56,0V67.47h11.84v37.37A23.65,23.65,0,0,1,181.71,128.45Z"
+         transform="translate(-60.22 -65.7)"
+         fill="#00214E"
+         id="path1"
+         style="fill:#ffffff;fill-opacity:1" />
+      <polygon
+         points="252.38 60.79 215.48 60.79 215.48 1.77 227.32 1.77 227.32 48.95 252.38 48.95 252.38 60.79"
+         fill="#00214E"
+         id="polygon1"
+         style="fill:#ffffff;fill-opacity:1" />
+      <path
+         d="M339.6,83c12.52,0,22.73,9.88,22.73,22.14s-10.22,22.14-22.73,22.14-22.73-9.88-22.73-22.14S327.09,83,339.6,83Zm0,33.21a11.07,11.07,0,1,0-11.15-11.07A11.07,11.07,0,0,0,339.6,116.17Z"
+         transform="translate(-60.22 -65.7)"
+         fill="#00214E"
+         id="path2"
+         style="fill:#ffffff;fill-opacity:1" />
+      <path
+         d="M368.92,83.2h11.49V106c0,6.56,1.7,10.22,7.75,10.22,5.88,0,9.2-3.75,9.2-11.58V83.2h11.41v43.19H397.36v-5.53a15.85,15.85,0,0,1-12.77,6.39c-12.6,0-15.67-10-15.67-19.33Z"
+         transform="translate(-60.22 -65.7)"
+         fill="#00214E"
+         id="path3"
+         style="fill:#ffffff;fill-opacity:1" />
+      <path
+         d="M414.6,83.2H426L433,101.52c2.47,6.64,4.26,13.45,4.26,13.45s1.87-6.81,4.34-13.45l6.89-18.32h11.41l-17,43.19H431.6Z"
+         transform="translate(-60.22 -65.7)"
+         fill="#00214E"
+         id="path4"
+         style="fill:#ffffff;fill-opacity:1" />
+      <path
+         d="M481.23,83A15.93,15.93,0,0,1,494,89.43V83.2h11.41v43.19H494v-5.53a15.85,15.85,0,0,1-12.77,6.39c-11.92,0-19.67-9.88-19.67-22.14S469.31,83,481.23,83ZM484,116.17c6,0,10-4.51,10-11.07S489.92,94,484,94s-10.22,4.51-10.22,11.07S477.91,116.17,484,116.17Z"
+         transform="translate(-60.22 -65.7)"
+         fill="#00214E"
+         id="path5"
+         style="fill:#ffffff;fill-opacity:1" />
+      <path
+         d="M521.59,66a6.77,6.77,0,1,1-6.73,6.81A6.83,6.83,0,0,1,521.59,66Zm-5.7,17.18h11.41v43.19H515.88Z"
+         transform="translate(-60.22 -65.7)"
+         fill="#00214E"
+         id="path6"
+         style="fill:#ffffff;fill-opacity:1" />
+      <path
+         d="M537,83.2h11.41v6.15A16,16,0,0,1,561.73,83c12.18,0,15.16,8.26,15.16,20v23.41H565.39V104.25c0-6.56-.77-10.22-7.32-10.22-5.88,0-9.62,4.51-9.62,11.07v21.29H537Z"
+         transform="translate(-60.22 -65.7)"
+         fill="#00214E"
+         id="path7"
+         style="fill:#ffffff;fill-opacity:1" />
+      <path
+         d="M245.1,128.45a31.38,31.38,0,1,1,22.19-53.56l-8.37,8.37a19.54,19.54,0,1,0,0,27.63l8.37,8.37A31.17,31.17,0,0,1,245.1,128.45Z"
+         transform="translate(-60.22 -65.7)"
+         fill="#00214E"
+         id="path8"
+         style="fill:#ffffff;fill-opacity:1" />
+    </g>
+    <!-- logo -->
+    <g
+       id="logo"
+       style="stroke:#ffffff;stroke-opacity:1;fill:none;stroke-width:3;stroke-dasharray:none">
+      <rect
+         x="59"
+         y="1.88"
+         width="19.67"
+         height="59"
+         fill="#9cb7d4"
+         id="rect8"
+         style="stroke:#ffffff;stroke-opacity:1;fill:none;stroke-width:3;stroke-dasharray:none" />
+      <polygon
+         id="Fill-1"
+         points="39.33 60.88 19.67 60.88 19.67 1.88 0 1.88 0 80.55 59 80.55 59 60.88 39.33 60.88"
+         fill="#5db3e6"
+         style="stroke:#ffffff;stroke-opacity:1;fill:none;stroke-width:3;stroke-dasharray:none" />
+      <rect
+         x="19.67"
+         y="1.88"
+         width="39.33"
+         height="59"
+         fill="#00214E"
+         id="rect9"
+         style="stroke:#ffffff;stroke-opacity:1;fill:none;stroke-width:3;stroke-dasharray:none" />
+    </g>
+    <!-- baseline -->
+    <g
+       id="bloc_1"
+       style="fill:#ffffff;fill-opacity:1">
+      <text
+         id="ligne_one"
+         x="93.2"
+         y="128.5"
+         fill="#4A96CD"
+         font-family="'montserratregular'"
+         letter-spacing="-0.24"
+         font-size="39.76"
+         style="fill:#ffffff;fill-opacity:1">École polytechnique de Louvain</text>
+      <text
+         id="ligne_two"
+         x="93.2"
+         y="179.2"
+         fill="#008193"
+         font-family="'montserratregular'"
+         letter-spacing="-0.24"
+         font-size="39.76"
+         style="fill:#ffffff;fill-opacity:1" />
+      <text
+         id="ligne_three"
+         x="93.2"
+         y="179.2"
+         fill="#00214E"
+         font-family="montserratregular"
+         letter-spacing="-0.24"
+         font-size="39.76"
+         style="fill:#ffffff;fill-opacity:1" />
+    </g>
+  </g>
+</svg>
